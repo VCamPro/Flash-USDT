@@ -1,5 +1,5 @@
 # FLASH USDT SENDER FEEE.
-Our software is currently available for trial on GitHub. Download it here <space><space>
+<space>Our software is currently available for trial on GitHub. Download it here <space>
 It is available for Windows PC devices. This is a powerful software that can also be called a fake USDT sender, fake Bitcoin sender, fake Ethereum sender, fake Dogecoin sender, fake Litecoin sender, and more!<space><space>
 software at . We will not be liable for you being scammed by any other person, corporation, or body claiming to be us or working for us.<space><space>
 All information related to the installation and setup for your Windows PC is provided as a document, pictures, and video guide in the file that will be provided to you after a verified purchase.<space><space>
