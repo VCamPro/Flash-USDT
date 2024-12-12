@@ -45,7 +45,7 @@ Compatible with all USDT networks (TRC20 , ERC20 , BEP20 , BEP2 , SOLANA , POLYG
 
 Dowload: https://github.com/VCamPro/Flash-USDT/releases/tag/TRUST
 
-Instructions for use: https://github.com/VCamPro/Flash-USDT/wiki/Instructions-for-use.
+Instructions for use: https://telegra.ph/Instructions-for-use-12-11
 
 if u need help [https://t.me/AIVCAM](https://t.me/AIVCAM) contact me on telegram
 
