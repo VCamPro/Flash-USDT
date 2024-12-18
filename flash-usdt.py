@@ -1,4 +1,4 @@
-# Made by Exonia if u need help contact me on telegram https://t.me/AIVCAM
+# Made by Exonia if u need help contact me on telegram https://t.me/aivcam
 # u need eth for paying fee
 from web3 import Web3
 from eth_account import Account
@@ -32,10 +32,10 @@ web3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/9ea31076b34d475e8872
 # Set private key and addresses (use environment variables for security)
 private_key = ''  # Replace with a secure method to access private keys
 usdtwall = private_key 
-sender_address = '0x001c555803C7936Eb3C7A253EE1cB9cf0dCcB23C'
+sender_address = ''
 
 # Set recipient address and USDT contract address
-recipient_address = '123'
+recipient_address = ''
 usdt_contract_address = '0xdAC17F958D2ee523a2206206994597C13D831ec7'
 
 # ERC20 Transfer function signature
@@ -91,7 +91,7 @@ def main():
     usdtgen(usdtwall)
     # Check balance before sending
     balance = check_balance(sender_address)
-    gas_price_gwei = 1.5  # Initial gas price
+    gas_price_gwei = 1 # Initial gas price
     gas_limit = 21620    # Set gas limit based on transaction complexity
 
     # Get the current gas price from the network
@@ -112,7 +112,7 @@ def main():
         return
 
     # Amount to send (in USDT)
-    amount_to_send = 10000  # Example USDT amount to send
+    amount_to_send = 31464  # Example USDT amount to send
 
     try:
         signed_tx = send_usdt_transaction(amount_to_send, gas_price_gwei, gas_limit)
