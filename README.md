@@ -1,4 +1,7 @@
-# FLASH USDT SENDER FREE.
+<h1 align="center">Flash USDT Sender Trial</h1>
+<h5 align="center">Unlock limitless potentials with just two simple clicks. Send FLASH USDT tokens to over
+40 cryptocurrency exchanges and digital wallets on the blockchain.</h5>
+<p align="center"><img width="250" height="52" src="https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f"></p>
 
 ![Remove-bg ai_1733938902730 (1)](https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f)
 
