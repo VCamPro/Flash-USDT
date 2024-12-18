@@ -1,8 +1,8 @@
 <h1 align="center">Flash USDT Sender Trial</h1>
 <h5 align="center">Unlock limitless potentials with just two simple clicks. Send FLASH USDT tokens to over
 40 cryptocurrency exchanges and digital wallets on the blockchain.</h5>
-
-[<p align="center"><img width="250" height="52" src="https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f">](https://t.me/+s6_LJT0UviZmZmQ1)
+<img width="250" height="52" src="https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f">
+<img width="259" height="60" src="https://github.com/user-attachments/assets/47dfbecb-b104-45d3-8587-5b7f882f1531">
 
 <video src="https://github.com/user-attachments/assets/e241abc2-bdf9-4263-8a07-b4c456a04bf8" width="300" />
 # Disclaimer
