@@ -5,7 +5,7 @@
  <h5 align="center">
   
   [<img width="250" height="52" src="https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f">](https://t.me/+s6_LJT0UviZmZmQ1)
-  [<img width="265" height="59" src="https://github.com/user-attachments/assets/47dfbecb-b104-45d3-8587-5b7f882f1531">](https://t.me/aivcam)
+  [<img width="265" height="59" src="https://github.com/user-attachments/assets/47dfbecb-b104-45d3-8587-5b7f882f1531">](https://t.me/sinhtulenh)
   
 </p>
 
