@@ -6,11 +6,12 @@
   
   [<img width="250" height="52" src="https://github.com/user-attachments/assets/7bc09a0a-1d83-42a1-9559-0e2e700df24f">](https://t.me/+s6_LJT0UviZmZmQ1)
   [<img width="265" height="59" src="https://github.com/user-attachments/assets/47dfbecb-b104-45d3-8587-5b7f882f1531">](https://t.me/sinhtulenh)
-  
+
 </p>
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e241abc2-bdf9-4263-8a07-b4c456a04bf8" width="300" />
+  <video src="https://github.com/user-attachments/assets/493f53bc-f7d9-4137-b0db-cbdf47a7ed35
+" width="300" />
 </p>
 
 # Disclaimer
