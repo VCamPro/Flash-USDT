@@ -52,6 +52,7 @@ When you gain app access, you'll have a limited spendable quota of either bitcoi
 > [GIT](https://visualstudio.microsoft.com/downloads/?q=build+tools)\
 > [Download the Yandex browser](https://yandex.com/)\
 > [Metamask](https://metamask.io/)
+> [Exodus](https://www.exodus.com/)
 
 ```bash
 pip install web3
